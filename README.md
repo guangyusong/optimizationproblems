@@ -6,4 +6,5 @@ A curated collection of optimization constants $C$ in mathematics, often arising
 
 We are arbitrarily numbering the constants as $C_1$, $C_2$, etc. based on the order in which the constants were added to the repository.
 
-1. [Sidon set autocorrelation constant](constants/1.md)
+1. [Sidon set autocorrelation constant](https://teorth.github.io/optimizationproblems/constants/1.html)
+2. [Erdős minimum overlap constant](https://teorth.github.io/optimizationproblems/constants/2.html)
