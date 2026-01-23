@@ -13,6 +13,7 @@ We are arbitrarily numbering the constants as $C_1$, $C_2$, etc. based on the or
 3. [A sum-difference constant](https://teorth.github.io/optimizationproblems/constants/3.html)
 4. [Cap set constant](https://teorth.github.io/optimizationproblems/constants/4.html)
 5. [A Sidon set constant](https://teorth.github.io/optimizationproblems/constants/5.html)
+6. [Union-closed sets conjecture constant](https://teorth.github.io/optimizationproblems/constants/6.html)
 
 ## Maintainers
 
