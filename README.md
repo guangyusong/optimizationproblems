@@ -22,3 +22,7 @@ We are arbitrarily numbering the constants as $C_1$, $C_2$, etc. based on the or
 ## Maintainers
 
 This site is maintained by Paata Ivanisvili and Terence Tao.
+
+## Related sites
+
+- [Leaps in Bounds](https://leapsinbounds.org/) - a repository of progress on mathematical unknowns
