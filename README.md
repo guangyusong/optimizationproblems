@@ -6,14 +6,15 @@ A curated collection of optimization constants $C$ in mathematics, often arising
 
 ## Table of Constants
 
-We are arbitrarily numbering the constants as $C_1$, $C_2$, etc. based on the order in which the constants were added to the repository.
+We are arbitrarily numbering the constants as $C_1$, $C_2$, etc., mostly based on the order in which the constants were added to the repository.
 
 | Number | Description | Best lower bound | Best upper bound |
 | ------ | ----------- | ---------------- | ---------------- |
-| [1](https://teorth.github.io/optimizationproblems/constants/1.html) | Sidon set autocorrelation constant | 1.2802 | 1.5029 |
-| [2](https://teorth.github.io/optimizationproblems/constants/2.html) | Erdős minimum overlap constant | 0.379005 | 0.380876 |
+| [1a](https://teorth.github.io/optimizationproblems/constants/1a.html) | Sidon set autocorrelation constant | 1.2802 | 1.5029 |
+| [1b](https://teorth.github.io/optimizationproblems/constants/1b.html) | Erdős minimum overlap constant | 0.379005 | 0.380876 |
+| [2](https://teorth.github.io/optimizationproblems/constants/2.html) | The Crouzeix constant | 2 | $1+\sqrt{2} \approx 2.4142$ |
 | [3a](https://teorth.github.io/optimizationproblems/constants/3a.html) | Gyamarti-Hennecart-Ruzsa sum-difference constant | 1.173077 | 1.33333 |
-| [3b](https://teorth.github.io/optimizationproblems/constants/3b.html) | The arithmetic sums-differences constant | >1.77898 | 1.83333 |
+| [3b](https://teorth.github.io/optimizationproblems/constants/3b.html) | The Kakeya sums-differences constant | >1.77898 | 1.83333 |
 | [4](https://teorth.github.io/optimizationproblems/constants/4.html) | Cap set constant | 0.724851 | 0.782597 |
 | [5](https://teorth.github.io/optimizationproblems/constants/5.html) | A Sidon set constant | 0 | 0.97633 |
 | [6](https://teorth.github.io/optimizationproblems/constants/6.html) | Union-closed sets conjecture constant | 0.38271 | 0.5 |
@@ -32,7 +33,6 @@ We are arbitrarily numbering the constants as $C_1$, $C_2$, etc. based on the or
 | [17](https://teorth.github.io/optimizationproblems/constants/17.html) | Exponential growth constant of diagonal Ramsey numbers | $\sqrt{2} \approx 1.4142$ | 3.7992027396 |
 | [18](https://teorth.github.io/optimizationproblems/constants/18.html) | Marton's conjecture constant (PFR) | 1 | 9 |
 | [19](https://teorth.github.io/optimizationproblems/constants/19.html) | The Berry–Esseen constant | 0.4097321837 | 0.4690 |
-| [20](https://teorth.github.io/optimizationproblems/constants/20.html) | The Crouzeix constant | 2 | $1+\sqrt{2} \approx 2.4142$ |
 
 
 ## Maintainers
