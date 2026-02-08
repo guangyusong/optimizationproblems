@@ -72,6 +72,7 @@ We are arbitrarily numbering the constants as $C_{1}$, $C_{2}$, etc., mostly bas
 | [44](https://teorth.github.io/optimizationproblems/constants/44a.html) | Maximal number of relevant variables in degree-$d$ Boolean functions | 1.5 | 4.394 |
 | [45](https://teorth.github.io/optimizationproblems/constants/45a.html) | Density of odd integers that are the sum of a prime and a power of two | 0.107648 | 0.490941 |
 | [46](https://teorth.github.io/optimizationproblems/constants/46a.html) | Fourier restriction constant for the 2-sphere | 3 |  $\frac{22}{7}\approx 3.142857$  |
+| [47](https://teorth.github.io/optimizationproblems/constants/47a.html) | Centered Hardy-Littlewood maximal constant in dimension $2$ | $\frac{11+\sqrt{61}}{12}\approx 1.5675208$ | 9 |
 
 
 ## Recent progress
